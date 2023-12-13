@@ -21,8 +21,8 @@ int main() {
                 asterik++;
             }
         }
-        printf("\n* =%d\n", asterik);
-        printf("# =%d\n", pagar);
+        printf("\n* = %d\n", asterik);
+        printf("# = %d\n", pagar);
         if (asterik > pagar) {
             printf("Pesan Asli");
         } else {
